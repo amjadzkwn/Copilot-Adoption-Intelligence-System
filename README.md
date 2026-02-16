@@ -71,8 +71,11 @@ The Streamlit application allows users to:
 
 The interface is designed for business users, analysts, and decision‑makers.
 
+**Description:**
 ![Streamlit Dashboard Part 1](https://github.com/amjadzkwn/Copilot-Adoption-Intelligence-System/raw/b56e7e63952e843ce58148c309efba867fe08dfc/Streamlit-Dashboard/Streamlit_Dashboard_Pt1.png)
 
+**Input:**
+![Streamlit Dashboard Part 2](https://github.com/amjadzkwn/Copilot-Adoption-Intelligence-System/blob/09482787296146d0f36f65cd3a204f193aef768c/Streamlit-Dashboard/Streamlit_Dashboard_Pt2.png)
 
 ## 📈 Prediction Outputs
 
