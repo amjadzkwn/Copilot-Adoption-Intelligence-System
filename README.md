@@ -77,6 +77,7 @@ The interface is designed for business users, analysts, and decision‑makers.
 **Input:**
 ![Streamlit Dashboard Part 2](https://github.com/amjadzkwn/Copilot-Adoption-Intelligence-System/blob/09482787296146d0f36f65cd3a204f193aef768c/Streamlit-Dashboard/Streamlit_Dashboard_Pt2.png)
 
+
 ## 📈 Prediction Outputs
 
 The system provides:
@@ -129,6 +130,9 @@ Output:
 - Recommend additional Copilot training
 - Provide prompt templates
 - Assign Copilot champions in department
+
+**Output:**
+![Streamlit Dashboard Part 3](https://github.com/amjadzkwn/Copilot-Adoption-Intelligence-System/blob/ba21e44c08e7687e3c31a24ceb3d8b4ceafd6aa5/Streamlit-Dashboard/Streamlit_Dashboard_Pt3.png)
 
 ### 🔹 Scenario 2: Moderate Training & Mildly Positive Sentiment
 Input:
