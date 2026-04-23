@@ -1,4 +1,4 @@
-# Copilot-Adoption-Intelligence-System
+# Copilot Adoption Intelligence System
 
 ## 📌 Project Overview
 
